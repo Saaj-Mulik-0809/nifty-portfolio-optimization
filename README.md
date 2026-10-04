@@ -67,4 +67,4 @@ Rolling-window re-optimization, shrinkage estimators for covariance and expected
 
 ## Author
 
-[Your Name] | [LinkedIn or email, optional]
+Saaj Mulik
